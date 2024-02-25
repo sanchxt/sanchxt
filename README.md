@@ -1,4 +1,10 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hey there, I'm Sanchit Bhalla</h1></summary>
+  </ul>
+</div>
 
 <!--
 **sanchxt/sanchxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
