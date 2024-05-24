@@ -11,7 +11,7 @@
 <hr>
 
 - I'm a passionate developer, quickly grasping new concepts and expanding on my skills
-- Currently working on [Doodle Drift](https://www.github.com/sanchxt/doodle-drift), a personal project using NextJS, ReactJS, Convex / Clerk, TailwindCSS
+- Currently working on [Doodle Drift](https://www.github.com/sanchxt/doodle-drift) & a [Kanban App](https://github.com/sanchxt/kanban-app), a personal project using NextJS, ReactJS, Convex / Clerk, TailwindCSS
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
