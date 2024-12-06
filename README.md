@@ -7,11 +7,11 @@
 </div>
 
 <br>
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
+<picture><img src="https://gist.githubusercontent.com/UddeshJain/90646446c86e45c494d6e69bfc3005f1/raw/b15bee8a8b85f8740795b92c1878ab8ed9ec2204/About%2520Me.gif" width=200px></picture>
 <hr>
 
 - I'm a passionate developer, quickly grasping new concepts and expanding on my skills
-- Currently working on [Doodle Drift](https://www.github.com/sanchxt/doodle-drift) & a [Kanban App](https://github.com/sanchxt/kanban-app), involving MERN, NextJS, Convex / Clerk, TailwindCSS
+- My most recent project is [Dev-10](https://github.com/sanchxt/Dev-10), a full stack web app involving the MERN stack, TypeScript, Docker
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
