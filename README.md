@@ -2,7 +2,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hey there, I'm Sanchit Bhalla</h1></summary>
+    <summary><h1 style="display: inline-block">Hey, I am Sanchit Bhalla</h1></summary>
   </ul>
 </div>
 
@@ -10,8 +10,10 @@
 <picture><img src="https://gist.githubusercontent.com/UddeshJain/90646446c86e45c494d6e69bfc3005f1/raw/b15bee8a8b85f8740795b92c1878ab8ed9ec2204/About%2520Me.gif" width=200px></picture>
 <hr>
 
-- I'm a passionate developer, quickly grasping new concepts and expanding on my skills
-- My most recent project is [Dev-10](https://github.com/sanchxt/Dev-10), a full stack web app involving the MERN stack, TypeScript, Docker
+- I'm always trying to explore new things tech-related :)
+- I do web development, but have been exploring Rust and I've been liking it, to be honest.
+- I also do other things on the side: 3D modeling, music production, motion animations, you name it.
+- Feel free to hit me up just for a quick chat about anything, really.
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -21,26 +23,20 @@
 
 - **Languages & Frameworks**:
     
-    ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
+    ![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)
     ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
     ![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=cplusplus)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb)
     ![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
     ![Next](https://img.shields.io/badge/Next-blue?style=for-the-badge&logo=nextdotjs)
     ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python)
-    ![GraphQL](https://img.shields.io/badge/GraphQL-blue?style=for-the-badge&logo=graphql)
-    ![Express](https://img.shields.io/badge/express-grey?style=for-the-badge&logo=express)
-    ![TailwindCSS](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
     ![C#](https://img.shields.io/badge/C%20SHARP-grey?style=for-the-badge&logo=csharp)
     ![NodeJS](https://img.shields.io/badge/NodeJS-blue?style=for-the-badge&logo=nodedotjs)
-    ![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)
 
 <br>   
 
 - **Extra Skills**:
 
-    ![Git](https://img.shields.io/badge/git-blue?style=for-the-badge&logo=git)
-    ![GitHub](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github)
+    ![Git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
     ![Linux](https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux)
     ![Photoshop](https://img.shields.io/badge/photoshop-grey?style=for-the-badge&logo=adobephotoshop)
     ![FL Studio](https://img.shields.io/badge/FL%20Studio-blue?style=for-the-badge&logo=musicbrainz)
