@@ -100,35 +100,6 @@ upstreams:
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-### Languages
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Backend & Infrastructure
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Tools & Platforms
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
 ## Beyond Code
 
 Like I said, I also love to explore other creative domains:
@@ -149,15 +120,5 @@ I'm always open to interesting conversations about technology, systems design, o
 [![Email](https://img.shields.io/badge/Email-sanchitbhalla15@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanchitbhalla15@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sanchxt.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanchxt.com)
 [![Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-FF6B6B?style=for-the-badge&logo=substack&logoColor=white)](https://newsletter.sanchxt.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### _Smultronställe...✨_
 
 </div>
