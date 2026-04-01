@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/sanchxt/sanchxt/main/profile-summary-card-output/yeblu/4-productive-time.svg)
+```
+
+    
